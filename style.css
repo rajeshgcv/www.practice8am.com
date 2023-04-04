@@ -3,3 +3,9 @@
 h1{
     background-color: peru;
 }
+
+.one{
+    background-color: rgb(37, 236, 236);
+    width: 500px;
+    height: 200px;
+}
