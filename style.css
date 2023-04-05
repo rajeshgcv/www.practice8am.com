@@ -4,7 +4,32 @@ h1{
     background-color: peru;
 }
 
+
 .one{
     background-color: lightcoral;
     height: 50px;
+=======
+h2{
+background-color: black;
+color: wheat;
+
+
+}
+h3{
+background-color: black;
+color: red;
+
+=======
+
+.one{
+    background-color: rgb(37, 236, 236);
+    width: 500px;
+    height: 200px;
+}
+
+.two{
+    background-color: burlywood;
+    width: 500px;
+    height: 200px;
+
 }
