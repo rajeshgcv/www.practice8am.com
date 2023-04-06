@@ -4,8 +4,15 @@ h1{
     background-color: peru;
 }
 
+
+
+.one{
+    background-color: lightcoral;
+    height: 50px;
+=======
 .one>p{
     background-color: aquamarine;
+
 =======
 h2{
 background-color: black;
@@ -29,4 +36,5 @@ color: red;
     background-color: burlywood;
     width: 500px;
     height: 200px;
+
 }
