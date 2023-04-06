@@ -5,9 +5,14 @@ h1{
 }
 
 
+
 .one{
     background-color: lightcoral;
     height: 50px;
+=======
+.one>p{
+    background-color: aquamarine;
+
 =======
 h2{
 background-color: black;
