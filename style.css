@@ -3,6 +3,10 @@
 h1{
     background-color: peru;
 }
+
+.one>p{
+    background-color: aquamarine;
+=======
 h2{
 background-color: black;
 color: wheat;
